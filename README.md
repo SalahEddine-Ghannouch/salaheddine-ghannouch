@@ -3,7 +3,7 @@
         <p align=center>
             <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
         </p>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=30&center=true&vCenter=true&width=672&height=55&lines=Hi+there+I+am+Salah+Eddine+Ghannouch;Computer+Science+Student;Software+Engineering;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=30&center=true&vCenter=true&width=672&height=55&lines=Hi+there+I+am+Salah+Eddine+Ghannouch;Full-Stack+Developer;Software+Engineering;" alt="Headline" />
     </div>
     <div align=center>
         <p align=center>
@@ -33,7 +33,7 @@
     <div align=center>
         <p>
             <strong>
-               I'm 5 Years Computer Science Student of software development experience in object oriented programming, development of Multi-Tier distributed, Enterprise applications using Java and Web technologies with Software Development Life Cycle.
+               💻 Full Stack Developer with 2 years of experience in software development, specializing in object-oriented programming and the development of multi-tier distributed and enterprise applications using modern Web technologies. I have a Master’s degree in Distributed Information Systems & Big Data. My skill set includes Drupal, Java, Django, and Flutter, with hands-on experience in all phases of the Software Development Life Cycle (SDLC).
                 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
             </strong>
         </p>
