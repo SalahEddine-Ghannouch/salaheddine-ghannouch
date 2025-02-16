@@ -33,9 +33,9 @@
     <div align=center>
         <p>
             <strong>
-               💼 Développeur Full Stack titulaire d'un Master en Systèmes Informatiques Distribués & Big Data de l'Université Ibn Zohr. J'ai acquis une solide expérience en Drupal, Java, Django et Flutter grâce à des projets diversifiés, notamment lors de stages chez VOID et Hydroleader.
+               💼 Full Stack Developer with a Master's degree in Distributed Information Systems & Big Data from Ibn Zohr University. I have gained solid experience in Drupal, Java, Django, and Flutter through diverse projects, including internships at VOID and Hydroleader.
 
-🚀 Passionné par la création de solutions web et mobiles innovantes, je m'épanouis dans des environnements collaboratifs et je suis prêt à apporter mon expertise à des projets de pointe en développement Full Stack et en Business Intelligence.
+🚀 Passionate about creating innovative web and mobile solutions, I thrive in collaborative environments and am ready to bring my expertise to cutting-edge Full Stack Development and Business Intelligence projects.
 
 📌 Portfolio : salaheddine-ghannouch.github.io/MyPortfolio
                 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
